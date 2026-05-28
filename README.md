@@ -48,7 +48,7 @@
 ### 📡 Contact & Links
 - 🌐 Blog: [nileath.dev](https://nileath.dev)  
 - 🧩 GitHub: [github.com/nileath](https://github.com/nileath)  
-- 🔒 Hack The Box: [`@Nileath`](https://app.hackthebox.com/profile/1001536)
+- 🔒 Hack The Box: [`@Nileath`](https://app.hackthebox.com/public/users/1001536)
 
 ---
 
